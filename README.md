@@ -18,6 +18,19 @@ The project reinforces React fundamentals through practical implementation while
 
 ---
 
+## 📊 Sample Input & Output
+
+1. **Increment Button Clicked**  
+   When the increment button is clicked, the counter value increases by the current step size. This continues until the upper bound is reached, at which point the increment button is disabled.
+
+2. **Step Size Changed**  
+   When the step size is changed by the user, all subsequent increments and decrements are performed using this new step size. This allows flexible control over how fast the counter changes.
+
+3. **Upper/Lower Bound Reached**  
+   When the counter reaches the upper bound, it cannot be incremented further. Similarly, when the counter reaches the lower bound, it cannot be decremented further. Buttons are automatically disabled to prevent crossing the set limits.
+
+---
+
 ## 🔗 GitHub Repository Link
 [Minor-Project-InternsElite](https://github.com/gautamb817/Minor-Project-InternsElite)
 
