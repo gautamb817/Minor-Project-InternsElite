@@ -56,3 +56,6 @@ The project reinforces React fundamentals through practical implementation while
    ```bash
    git clone https://github.com/gautamb817/Minor-Project-InternsElite.git
    cd Minor-Project-InternsElite
+   npm install
+   npm start
+   http://localhost:3000
